@@ -8,7 +8,6 @@
 👨‍🎓 &nbsp; I'm Systems analyst and software developer.\
 🌍 &nbsp; I living in Giron, Santader, Colombia.\
 🐱‍👤 &nbsp; I’m currently working on Newsoft S.A.S. on Colombia.\
-📫 &nbsp; How to reach me: <a href="www.oscar-almeida.com">www.oscar-almeida.com </a>
 
 ### 🛠 &nbsp;Tech Stack
 
