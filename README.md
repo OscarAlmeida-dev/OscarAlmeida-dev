@@ -8,7 +8,11 @@ Systems analyst and software developer, I living in Giron, Santader, Colombia
 ## Tech Stack
 C# | JavaScript/NodeJs
 
-
+<h2>Follow  Me</h2>
+<p align="left">
+	<a href="https://github.com/OscarAlmeida-dev"><img src="https://img.shields.io/github/followers/OscarAlmeida-dev.svg?label=GitHub&style=social" alt="GitHub"></a>
+	<a href="www.oscar-almeida.com">My personal web</a>
+</p>
 <!--
 **OscarAlmeida-dev/OscarAlmeida-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
