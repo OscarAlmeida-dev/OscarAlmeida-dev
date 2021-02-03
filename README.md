@@ -1,4 +1,13 @@
-### Hi there 👋
+![Header](https://raw.githubusercontent.com/OscarAlmeida-dev/OscarAlmeida-dev/main/fondo.jpg)
+
+### Hi there, I'm Oscar Almeida
+
+Systems analyst and software developer, I living in Giron, Santader, Colombia
+
+
+## Tech Stack
+C# | JavaScript/NodeJs
+
 
 <!--
 **OscarAlmeida-dev/OscarAlmeida-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
