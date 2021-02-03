@@ -4,9 +4,11 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-👨‍🎓 &nbsp; I'm Systems analyst and software developer.
-🌍 &nbsp; I living in Giron, Santader, Colombia.
-🐱‍👤 &nbsp; I currently work at Newsoft S.A.S. on Colombia.
+🐱‍🏍 &nbsp; I am 23 years old.\
+👨‍🎓 &nbsp; I'm Systems analyst and software developer.\
+🌍 &nbsp; I living in Giron, Santader, Colombia.\
+🐱‍👤 &nbsp; I’m currently working on Newsoft S.A.S. on Colombia.\
+📫 How to reach me: <a href="www.oscar-almeida.com" target="_blank">www.oscar-almeida.com </a>
 
 
 ## Tech Stack
