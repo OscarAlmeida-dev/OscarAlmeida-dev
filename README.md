@@ -12,10 +12,12 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-- C#. (.Net, .Net Core)
+- C# (.Net, .Net Core).
 - Html, CSS JavaScript.
-- NodeJs. (Angular 2+, Angular Js, Electron js, Express, React, TypeScript)
-- Mobile. (Flutter, Ionic, React Native, Xamarin)
+- NodeJs (Angular 2+, Angular Js, Electron js, Express, React, TypeScript).
+- Mobile (Flutter, Ionic, React Native, Xamarin).
+- Github, Azure devops, Gitlab.
+- Git, Microsoft team foundation (TFS).
 
 ### ⚙️ &nbsp;GitHub Analytics
 
