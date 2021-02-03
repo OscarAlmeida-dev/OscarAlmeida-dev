@@ -17,11 +17,10 @@
 - NodeJs. (Angular 2+, Angular Js, Electron js, Express, React, TypeScript)
 - Mobile. (Flutter, Ionic, React Native, Xamarin)
 
-[![Oscar Almeida GitHub stats](https://github-readme-stats.vercel.app/api?username=oscaralmeida-dev&show_icons=true)](https://github.com/crisgarner)
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/OscarAlmeida-dev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oscaralmeida-dev&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=oscaralmeida-dev&layout=compact&langs_count=8"/>
 </a>
@@ -31,4 +30,5 @@
 <p align="left">
 	<a href="https://github.com/OscarAlmeida-dev"><img src="https://img.shields.io/github/followers/OscarAlmeida-dev.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://facebook.com/xxoscaretoxx"><img src="https://img.shields.io/badge/-@xxoscaretoxx-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+	<a href="mailto:oscaralmeida.wd@gmail.com"><img src="https://img.shields.io/badge/-oscaralmeida.wd@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
