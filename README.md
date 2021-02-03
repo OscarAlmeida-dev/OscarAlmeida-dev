@@ -10,6 +10,8 @@
 🐱‍👤 &nbsp; I’m currently working on Newsoft S.A.S. on Colombia.\
 📄 &nbsp; Please have a look at my [web portfolio](https://www.oscar-almeida.com) for more details about me. I'm open to feedback and suggestions!
 
+<img alt="Cat Coding" src="https://raw.githubusercontent.com/OscarAlmeida-dev/OscarAlmeida-dev/master/cat-coder.gif" align="right"/>
+
 ### 🛠 &nbsp;Tech Stack
 
 - C# (.Net, .Net Core).
