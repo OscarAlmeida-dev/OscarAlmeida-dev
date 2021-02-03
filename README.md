@@ -12,15 +12,19 @@
 
 
 ## Tech Stack
-C# | JavaScript/NodeJs
+- C# (.Net, .Net Core)\
+- Html, CSS JavaScript\
+- NodeJs (Angular 2+, Angular Js, Electron js, Express, React, TypeScript)\
+- Mobile (Flutter, Ionic, React Native, Xamarin)\
 
 [![Oscar Almeida GitHub stats](https://github-readme-stats.vercel.app/api?username=oscaralmeida-dev&show_icons=true)](https://github.com/crisgarner)
 
 <h2>Follow  Me</h2>
 <p align="left">
 	<a href="https://github.com/OscarAlmeida-dev"><img src="https://img.shields.io/github/followers/OscarAlmeida-dev.svg?label=GitHub&style=social" alt="GitHub"></a>
-	<a href="www.oscar-almeida.com">My personal web</a>
 </p>
+
+
 <!--
 **OscarAlmeida-dev/OscarAlmeida-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
