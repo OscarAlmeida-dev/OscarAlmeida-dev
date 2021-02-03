@@ -2,11 +2,17 @@
 
 ### Hi there, I'm Oscar Almeida
 
-Systems analyst and software developer, I living in Giron, Santader, Colombia
+### 👨🏻‍💻 &nbsp;About Me
+
+👨‍🎓 &nbsp; I'm Systems analyst and software developer.
+🌍 &nbsp; I living in Giron, Santader, Colombia.
+🐱‍👤 &nbsp; I currently work at Newsoft S.A.S. on Colombia.
 
 
 ## Tech Stack
 C# | JavaScript/NodeJs
+
+[![Oscar Almeida GitHub stats](https://github-readme-stats.vercel.app/api?username=oscaralmeida-dev&show_icons=true)](https://github.com/crisgarner)
 
 <h2>Follow  Me</h2>
 <p align="left">
