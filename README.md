@@ -12,10 +12,10 @@
 
 
 ## Tech Stack
-- C# (.Net, .Net Core)\
-- Html, CSS JavaScript\
-- NodeJs (Angular 2+, Angular Js, Electron js, Express, React, TypeScript)\
-- Mobile (Flutter, Ionic, React Native, Xamarin)\
+- C#. (.Net, .Net Core)
+- Html, CSS JavaScript.
+- NodeJs. (Angular 2+, Angular Js, Electron js, Express, React, TypeScript)
+- Mobile. (Flutter, Ionic, React Native, Xamarin)
 
 [![Oscar Almeida GitHub stats](https://github-readme-stats.vercel.app/api?username=oscaralmeida-dev&show_icons=true)](https://github.com/crisgarner)
 
